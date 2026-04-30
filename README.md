@@ -76,4 +76,5 @@ Edit constants at the top of `monitor.py` to adjust.
 
 ## Author
 
-Your Name — CS Major · IoT Portfolio
+Derrick Murithi
+
